@@ -44,7 +44,8 @@ int main()
 
 	//new code - B
 	cout << "A";
-	cout << "B";
+	cout << "CCCC";
+	cout << "A에서 추가했습니다.";
 	cout << "A에서 추가"
 
 	return 0;
