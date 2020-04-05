@@ -13,7 +13,8 @@ int main()
 	//새로운 코드 추가
 	int b = 1;
 
-
+	//new code2
+	int d = 3;
 
 
 	for (int i = 1; i < 6; i++) {
