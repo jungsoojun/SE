@@ -43,7 +43,7 @@ int main()
 	cout << "코드 수정 commit 테스트";
 
 	//new code - B
-	cout << "B에서 코드 수정"
+	cout << "B에서 코드 수정";
 
 	return 0;
 	
