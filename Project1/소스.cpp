@@ -44,8 +44,12 @@ int main()
 
 	//new code - B
 	cout << "A";
+<<<<<<< HEAD
 	cout << "CCCC";
 	cout << "A에서 추가했습니다.";
+=======
+	cout << "BBBBBBBBBBBB";
+>>>>>>> 4a061eee9791b773bdd442b31fb196ca9abdd6b0
 	cout << "A에서 추가"
 
 	return 0;
