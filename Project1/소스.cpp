@@ -36,6 +36,12 @@ int main()
 	//new code4
 	cout << "스태시로 넘어가기";
 
+	//new code5
+	cout << "스태시 기능 활용하기";
+
+	//new code6
+	cout << "코드 수정 commit 테스트";
+
 	return 0;
 	
 }
