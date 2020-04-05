@@ -23,6 +23,12 @@ int main()
 		result += num;
 	}
 
+
+	//new code3
+	int result = 0;
+	result = b * d;
+	cout << result;
+
 	cout << "\nÇÕ°è" << result << endl;
 	return 0;
 	
