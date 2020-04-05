@@ -29,10 +29,6 @@ int main()
 	result = b * d;
 	cout << result;
 
-
-	//new code4
-	int c = 0;
-
 	cout << "\nÇÕ°è" << result << endl;
 	return 0;
 	
