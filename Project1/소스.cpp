@@ -10,6 +10,12 @@ int main()
 	int num = 0;
 	int result = 0;
 
+	//새로운 코드 추가
+	int b = 1;
+
+
+
+
 	for (int i = 1; i < 6; i++) {
 		cout << i << "번째 정수입력 : ";
 		cin >> num;
