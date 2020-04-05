@@ -30,6 +30,12 @@ int main()
 	cout << result;
 
 	cout << "\n합계" << result << endl;
+
+
+
+	//new code4
+	cout << "스태시로 넘어가기";
+
 	return 0;
 	
 }
